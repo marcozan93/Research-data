@@ -1,7 +1,8 @@
 # Research-data
-## Data files used for research projects 🔬 📊
 
-This repository includes data sets and metadata used for published research studies, and are shared to promote **open science**.
+This repository includes data sets and metadata used for published research studies, freely available to promote **open science**.
+
+## Data files used for research projects 🔬 📊
 
 The data included in ```study_2``` folder are linked to the research study: 
 - Zanin, M., Azzalini, A., Ranaweera, J., Till, K., Darrall-Jones, J., & Roe, G. (2022). Designing a small-sided game to elicit attacking tactical behaviour in professional rugby union forwards. *Journal of Sports Sciences*, 1-11. https://www.tandfonline.com/doi/full/10.1080/02640414.2022.2156101
